@@ -13,7 +13,7 @@ Finalmente, muestra todos los datos ingresados por el usuario junto con su IMC y
 Finalmente, agregué los comentarios dentro del código que proporcionan orientación sobre qué hace cada parte del código.
 
 Mario A. Valverde Díaz
-Marzo, 2024.
+(Marzo, 2024.)
 
 
 
