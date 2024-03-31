@@ -12,11 +12,8 @@ Finalmente, muestra todos los datos ingresados por el usuario junto con su IMC y
 
 Finalmente, agregué los comentarios dentro del código que proporcionan orientación sobre qué hace cada parte del código.
 
+Reflexión.
+Aprender los conceptos básicos de la programación en Python me ha proporcionado un base para comprender la lógica de programación, lo cual me servirá para resolver problemas de manera estructurada.  La sintaxis simple y legible de Python me facilita la comprensión de los conceptos fundamentales, como cadenas de texto y las variables.  Espero seguir en mi curso para conocer más a fondo este lenguaje de programación. 
+
 Mario A. Valverde Díaz
 (Marzo, 2024.)
-
-
-
-
-
-
